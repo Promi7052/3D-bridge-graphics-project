@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1665947017 source:f:\glut-projects\project-1707052\1707052\src\bmploader.cpp
+	"BmpLoader.h"
+	<stdio.h>
+	<iostream>
+
+1665947017 f:\glut-projects\project-1707052\1707052\include\bmploader.h
+	<windows.h>
+
+1667268557 source:f:\glut-projects\project-1707052\1707052\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<bits/stdc++.h>
+	"BmpLoader.h"
+
+1667269560 source:g:\book pfoto\project-1707052\1707052\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<bits/stdc++.h>
+	"BmpLoader.h"
+
+1665947018 g:\book pfoto\project-1707052\1707052\include\bmploader.h
+	<windows.h>
+
+1665947018 source:g:\book pfoto\project-1707052\1707052\src\bmploader.cpp
+	"BmpLoader.h"
+	<stdio.h>
+	<iostream>
+
